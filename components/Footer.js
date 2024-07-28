@@ -77,7 +77,7 @@ const FooterComponent = () => {
             <nav aria-label="Footer Navigation - Company" className="mt-6">
               <ul className="space-y-4 text-lg">
                 <li>
-                  <a href="tel://+50763448362"
+                  <a href="tel://+66772056"
                      target="_blank" 
                      className="text-gray-700 transition hover:opacity-75"
                      aria-label="Telefono para llamar">
@@ -86,11 +86,11 @@ const FooterComponent = () => {
                 </li>
 
                 <li>
-                  <a href="https://wa.me/50769126538"
+                  <a href="https://wa.me/66772056"
                      target="_blank"
                     className="text-gray-700 transition hover:opacity-75"
                     aria-label="Whatsapp">
-                  <BsWhatsapp className='inline text-blue-900'/> +507 6912-6538
+                  <BsWhatsapp className='inline text-blue-900'/> +507 66772056
                   </a>
                 </li>
 
