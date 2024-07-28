@@ -81,7 +81,7 @@ const FooterComponent = () => {
                      target="_blank" 
                      className="text-gray-700 transition hover:opacity-75"
                      aria-label="Telefono para llamar">
-                  <BsFillTelephoneFill className='inline text-blue-900'/> +507 6344-8362
+                  <BsFillTelephoneFill className='inline text-blue-900'/> +507 66772056
                   </a>
                 </li>
 
